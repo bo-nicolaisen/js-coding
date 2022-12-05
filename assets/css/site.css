@@ -7,6 +7,13 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+
+   
+}
+
+body{
+    background-color: rgb(52, 53, 58);
+    color: #afc3e6;
 }
 
 
@@ -16,8 +23,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(52, 53, 58);
-    color: #afc3e6;
+  
 }
 
 
@@ -87,21 +93,4 @@ footer{
     color:   #ffffff;
 }
 
-.galleryGrid {
-    width: 100%;
-    background-color: #515355;
-
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-
-img {
-    width: 20%;
-}
-
-#imgLarge {
-    width: 100%;
-}
 
